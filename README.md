@@ -12,3 +12,9 @@ then
 ```bash
 foundryup
 ```
+
+installs  install the complete Foundry suite 
+- **forge**
+- **cast**
+- **anvil**
+- **chisel**

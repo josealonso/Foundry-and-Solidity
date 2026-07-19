@@ -27,3 +27,9 @@ $ forge --version
   Commit SHA: 4072e48705af9d93e3c0f6e29e93b5e9a40caed8
   Build Timestamp: 2026-05-08T07:50:55.527285345Z (1778226655) 
   Build Profile: dist
+
+```bash
+$ forge compile
+```
+
+compiles the Solidity file and place the generated EVM bytecode in the `out` directory.
